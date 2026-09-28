@@ -15,7 +15,7 @@ function Home({ darkMode, setDarkMode }) {
           <div className="hero-text">
             <p className="eyebrow">AI & FULL STACK DEVELOPER</p>
             <h1>
-              Hi, I'm <span>Pallavi.</span>
+              Hi, I'm <span>Pallavi kh.</span>
             </h1>
             <p className="hero-description">
               BCA graduate | MCA student | Learning AI & Python Full Stack development.
